@@ -3,7 +3,7 @@
 주로 치트시트, 과제, 문제풀이 저장용으로 사용합니다.
 
 ### 최근 가장 마음에 든 코드
-https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3  
+(https://programmers.co.kr/learn/courses/30/lessons/12937?language=python3)  
 solution = lambda num : "Odd" if num % 2 else "Even"  
 
 ### 치트시트
